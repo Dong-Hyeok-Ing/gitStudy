@@ -1,1 +1,2 @@
 master로 생성한 파일  commit_1
+merge 할 때 소스 충돌이 일어나면 우찌 되나. 
